@@ -1,0 +1,5 @@
+commit ff5f54a7d1ee12948385396ca125918173c91485 (HEAD -> master)
+Author: Joao Pedro <jonyecx@gmail.com>
+Date:   Tue Jul 9 16:05:47 2019 -0300
+
+    Arquivo status.txt criado/status atual do git adicionado ao arquivo
