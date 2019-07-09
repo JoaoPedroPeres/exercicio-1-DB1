@@ -3,3 +3,23 @@ Author: Joao Pedro <jonyecx@gmail.com>
 Date:   Tue Jul 9 16:05:47 2019 -0300
 
     Arquivo status.txt criado/status atual do git adicionado ao arquivo
+
+------------------------------------------------------------------------------
+
+commit 68e4b0ba0b8cd2b4afff7a5febe8885b04ec1442 (HEAD -> master, origin/master)
+Author: JoaoPedroPeres <jonyecx@gmail.com>
+Date:   Tue Jul 9 16:26:00 2019 -0300
+
+    Update README.md
+
+commit f15ce5bda47f7eb2a08712b203add04aa7d09a0e
+Author: JoaoPedroPeres <jonyecx@gmail.com>
+Date:   Tue Jul 9 16:24:32 2019 -0300
+
+    Create README.md
+
+commit 6c2115d4372cf838e66e736570c3a77d04df97f0
+Author: Joao Pedro <jonyecx@gmail.com>
+Date:   Tue Jul 9 16:10:39 2019 -0300
+
+    arquivo logs.txt criado/ logs do git adicionados a logs.txt/ status.txt atualizado
